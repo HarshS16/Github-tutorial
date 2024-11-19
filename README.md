@@ -1,7 +1,7 @@
 # Github-tutorial
 
 This repository stores my notes for Git and Github tutorial
-Here I will store the basic commands and the thing to remember regarding git and github.
+Here I will store the basic commands and the things to remember regarding git and github.
 The content is based on Apna college git and github tutorial , taught by Shraddha Khapra ma'am.
 The following are the commands used in github 
 1) git clone <---some link---> this command is used to clone a git repository to the system memory(local PC) , where we add the link of the repository
